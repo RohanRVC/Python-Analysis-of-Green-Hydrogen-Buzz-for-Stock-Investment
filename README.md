@@ -3,7 +3,7 @@
 ## Of late there has been a sudden interest in the term “Green Hydrogen”. As an investor you spend a major part of your time to find such trends and invest in it earlier than everyone else understands it. So you are required to write a python program to figure out the buzz around green hydrogen and what all are the stocks that could benefit due sudden popularity of green hydrogen
 
 * Scraped headlines related to "green hydrogen" from CNBC's website.
-* Retrieved news headlines containing "green hydrogen" keyword from Google News RSS feed.
+* Retrieved news headlines containing "green hydrogen" keyword from Google News  RSS feed.
 * Stored the results in a pandas DataFrame, including news date.
 * Applied sentiment analysis using a pre-trained model from Hugging Face, adding a sentiment score column to the DataFrame.
 * Produced a word cloud map highlighting the organization names identified in the news headlines.
